@@ -1,0 +1,20 @@
+# derleme çıktıları
+build/
+*.o
+*.d
+*.bin
+*.elf
+*.img
+*.iso
+*.log
+
+# clangd / editörler
+.cache/
+compile_commands.json
+.vscode/
+.idea/
+*.swp
+*~
+
+# sistem
+.DS_Store

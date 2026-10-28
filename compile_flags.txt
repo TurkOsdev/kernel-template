@@ -1,0 +1,4 @@
+-Ikernel/include
+-std=c11
+-ffreestanding
+-m64
