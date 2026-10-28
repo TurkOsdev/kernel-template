@@ -2,6 +2,9 @@
 
 Legacy BIOS için minimal bir boot template'i. Bootloader NASM ile, kernel C ile yazıldı. GRUB ya da Limine kullanılmıyor.
 
+<img width="719" height="455" alt="image" src="https://github.com/user-attachments/assets/27e6cc40-de6b-4f3c-90e9-99b50076edfa" />
+
+
 ## Gereksinimler
 
 ```sh
